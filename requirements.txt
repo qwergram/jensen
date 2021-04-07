@@ -1,5 +1,5 @@
 asn1crypto==0.24.0
-bottle==0.12.18
+bottle==0.12.19
 cryptography==2.1.4
 Cython==0.29.17
 idna==2.6
